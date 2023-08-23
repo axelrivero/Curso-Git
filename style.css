@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: aquamarine;
+    background-color: #229395;
 }
 
 .titulo {
@@ -14,7 +14,7 @@ body {
     transition: all 0.5s ease-in-out;
 }
 
-.titulo:hover {
+.titulo:hover{
     color: whitesmoke;
-    background-color: teal;
+    background-color: rgb(4, 138, 247);
 }
